@@ -12,7 +12,7 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #8c000c;
+  background: #2C3531;
   color: white;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: white;
+  background-color: #2C3531;
   color: black;
 }
 
@@ -65,7 +65,7 @@ body {
 .side {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #2C3531;
   padding: 20px;
 }
 
