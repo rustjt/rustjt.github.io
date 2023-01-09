@@ -13,7 +13,7 @@ body {
   padding: 40px;
   text-align: center;
   background: #116466;
-  color: white;
+  color: #D1E8E2;
 }
 
 /* Increase the font size of the heading */
@@ -37,13 +37,13 @@ body {
 }
 
 .topnav a:hover {
-  background-color: rgb(173, 157, 157);
-  color: black;
+  background-color: #116466;
+  color: #D1E8E2;
 }
 
 .topnav a.active {
   background-color: #2C3531;
-  color: black;
+  color: #D1E8E2;
 }
 
 .topnav .icon {
