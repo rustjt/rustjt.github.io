@@ -10,15 +10,15 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 80px;
+  padding: 40px;
   text-align: center;
-  background: #2C3531;
+  background: #116466;
   color: white;
 }
 
 /* Increase the font size of the heading */
 .header h1 {
-  font-size: 60px;
+  font-size: 80px;
 }
 /*testing which has the better design for mobile*/
 .topnav {
