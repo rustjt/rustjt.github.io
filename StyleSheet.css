@@ -42,13 +42,13 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #116466;
-  color: #D1E8E2;
+  background-color: rgba(7,51,167,1);
+  color: #f2f2f2;
 }
 
 .topnav a.active {
-  background-color: #2C3531;
-  color: #D1E8E2;
+  background-color: #d7d7d7;
+  color: Black;
 }
 
 .topnav .icon {
