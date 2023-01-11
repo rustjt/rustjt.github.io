@@ -8,7 +8,6 @@ body {
   margin: 0;
 }
 
-/* Header/logo Title */
 .header {
   padding: 40px;
   text-align: center;
@@ -16,11 +15,10 @@ body {
   color: #D1E8E2;
 }
 
-/* Increase the font size of the heading */
 .header h1 {
   font-size: 80px;
 }
-/*testing which has the better design for mobile*/
+/*-------------- TopNav junk ------------*/
 .topnav {
   overflow: hidden;
   background-color: #222;
@@ -49,8 +47,7 @@ body {
 .topnav .icon {
   display: none;
 }
-
-
+/*-------------- TopNav junk ------------*/
 
 /* Column container */
 .row {  
@@ -66,6 +63,7 @@ body {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
   background-color: #2C3531;
+  color:white;
   padding: 20px;
 }
 
@@ -73,7 +71,7 @@ body {
 .main {   
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
-  background-color: #2C3531;
+  background-color: #D9b08c;
   padding: 20px;
 }
 
