@@ -44,8 +44,8 @@ body {
   margin: 0;
 }
 
-.side h3 {
-  padding: 5px;
+li:not(:last-child) {
+  margin-bottom: 5px;
 }
 /*-------------- TopNav junk ------------*/
 .topnav {
