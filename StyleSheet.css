@@ -109,7 +109,8 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
+  padding: 10px;
+  height: 10px;
   text-align: center;
   background: rgb(0,68,190);
   background: linear-gradient(0deg, rgba(0,68,190,1) 0%, rgba(34,34,34,1) 96%); 
