@@ -45,7 +45,7 @@ body {
 }
 
 li:not(:last-child) {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 /*-------------- TopNav junk ------------*/
 .topnav {
@@ -90,8 +90,8 @@ li:not(:last-child) {
 /* Sidebar/left column */
 .side {
   height: 100%;
-  -ms-flex: 30%; /* IE10 */
-  flex: 30%;
+  -ms-flex: 35%; /* IE10 */
+  flex: 35%;
   background-color: #d7d7d7;
   color:black;
   padding: 20px;
@@ -99,8 +99,8 @@ li:not(:last-child) {
 
 /* Main column */
 .main {   
-  -ms-flex: 70%; /* IE10 */
-  flex: 70%;
+  -ms-flex: 65%; /* IE10 */
+  flex: 65%;
   background-color: white;
   padding: 20px;
 }
