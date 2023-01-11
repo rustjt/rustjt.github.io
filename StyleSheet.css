@@ -111,7 +111,7 @@ li:not(:last-child) {
 }
 
 .main p {
-  font-size: 50px;
+  font-size: 20px;
 }
 /* Fake image, just for this example */
 .fakeimg {
