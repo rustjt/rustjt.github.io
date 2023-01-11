@@ -109,6 +109,9 @@ li:not(:last-child) {
   padding: 20px;
 }
 
+.main p {
+  font-size: 50px;
+}
 /* Fake image, just for this example */
 .fakeimg {
   background-color: #aaa;
