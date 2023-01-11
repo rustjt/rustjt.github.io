@@ -11,8 +11,8 @@ body {
 .header {
   padding: 40px;
   text-align: center;
-  background: #116466;
-  color: #D1E8E2;
+  background: #4dcc8d;
+  color: #f2f2f2;
 }
 
 .header h1 {
@@ -62,8 +62,8 @@ body {
 .side {
   -ms-flex: 30%; /* IE10 */
   flex: 30%;
-  background-color: #2C3531;
-  color:white;
+  background-color: #f1f1f1;
+  color:black;
   padding: 20px;
 }
 
@@ -71,7 +71,7 @@ body {
 .main {   
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
-  background-color: #D9b08c;
+  background-color: white;
   padding: 20px;
 }
 
