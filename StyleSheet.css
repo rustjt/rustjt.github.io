@@ -44,6 +44,10 @@ body {
   margin: 0;
 }
 
+.side h3 {
+  margin: 0;
+}
+
 li:not(:last-child) {
   margin-bottom: 3px;
 }
