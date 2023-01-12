@@ -2,12 +2,15 @@
 .container {
     max-width: 1200px;
     margin: auto;
+    background-color: white;
 }
-  
+body {
+    background-color: #d7d7d7;
+}  
 /* anchor tag decoration*/ 
 a {
     text-decoration: none;
-    color: #5673C8;
+    color: rgba(7,51,167,1);
 }
   
 a:hover {
@@ -26,7 +29,7 @@ a:hover {
   
 .col {
     float: left;
-    width: 25%;
+    width: 30%;
 }
   
 .each:after {
@@ -38,8 +41,7 @@ a:hover {
 /* content decoration */
 .content {
     background-color: white;
-    padding: 10px;
-    border: 1px solid gray;
+    padding: 15px;
 }
   
 /*window size 850 width set */
