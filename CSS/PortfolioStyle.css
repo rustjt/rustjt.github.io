@@ -1,0 +1,66 @@
+/* styling body */
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+  
+/* anchor tag decoration*/ 
+a {
+    text-decoration: none;
+    color: #5673C8;
+}
+  
+a:hover {
+    color: lightblue;
+}
+  
+/* paragraph tag decoration 
+p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+
+}
+  
+/* row and column decoration */
+.row1 {
+    margin: 0px -18px;
+    padding: 8px;
+}
+  
+.row1 > .col {
+    padding: 6px;
+}
+  
+.col {
+    float: left;
+    width: 25%;
+}
+  
+.row1:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+  
+/* content decoration */
+.content {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid gray;
+}
+  
+/*window size 850 width set */
+@media screen and (max-width: 850px) {
+    .col {
+        width: 50%;
+    }
+}
+
+/* window size 400 width set */ 
+@media screen and (max-width: 400px) {
+    .col {
+        width: 100%;
+    }
+}
