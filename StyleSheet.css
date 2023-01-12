@@ -79,7 +79,7 @@ li:not(:last-child) {
   color: Black;
 }
 
-/*.topnav .icon {
+.topnav .icon {
   display: none;
 }
 /*-------------- TopNav junk ------------*/
