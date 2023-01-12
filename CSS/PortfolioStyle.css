@@ -14,22 +14,13 @@ a:hover {
     color: lightblue;
 }
   
-/* paragraph tag decoration 
-p {
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
-    overflow: hidden;
-
-}
-  
 /* row and column decoration */
-.row1 {
+.each {
     margin: 0px -18px;
     padding: 8px;
 }
   
-.row1 > .col {
+.each > .col {
     padding: 6px;
 }
   
@@ -38,7 +29,7 @@ p {
     width: 25%;
 }
   
-.row1:after {
+.each:after {
     content: "";
     display: table;
     clear: both;
