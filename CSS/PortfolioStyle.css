@@ -42,7 +42,7 @@ a:hover {
 .content {
     background-color: white;
     padding: 15px;
-    flex: 1;
+    height:150px;
 }
   
 /*window size 850 width set */
