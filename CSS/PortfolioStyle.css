@@ -42,6 +42,7 @@ a:hover {
 .content {
     background-color: white;
     padding: 15px;
+    height: 100%;
 }
   
 /*window size 850 width set */
