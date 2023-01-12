@@ -34,21 +34,21 @@
       }
         
       /* row and column decoration */
-      .row {
+      .row1 {
           margin: 0px -18px;
           padding: 8px;
       }
         
-      .row > .column {
+      .row1 > .col {
           padding: 6px;
       }
         
-      .column {
+      .col {
           float: left;
           width: 25%;
       }
         
-      .row:after {
+      .row1:after {
           content: "";
           display: table;
           clear: both;
@@ -61,20 +61,20 @@
           border: 1px solid gray;
       }
         
-      /* window size 850 width set 
+      /*window size 850 width set */
       @media screen and (max-width: 850px) {
-          .column {
+          .col {
               width: 50%;
           }
       }
     
-      /* window size 400 width set 
+      /* window size 400 width set */ 
       @media screen and (max-width: 400px) {
-          .column {
+          .col {
               width: 100%;
           }
       }
-      */
+      
     </style>
 </head>
 
@@ -106,8 +106,8 @@
   </script>
 
 <div class="container">
-  <div class="row">
-    <div class="column">
+  <div class="row1">
+    <div class="col">
         <div class="content">
             <img src=
 "https://www.geeksforgeeks.org/wp-content/uploads/html.png"
