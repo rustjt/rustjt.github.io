@@ -29,7 +29,7 @@ a:hover {
   
 .col {
     float: left;
-    width: 30%;
+    width: 25%;
 }
   
 .each:after {
@@ -41,7 +41,7 @@ a:hover {
 /* content decoration */
 .content {
     background-color: white;
-    padding: 15px;
+    padding: 10px;
 }
   
 /*window size 850 width set */
