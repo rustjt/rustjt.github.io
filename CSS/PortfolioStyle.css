@@ -36,14 +36,13 @@ a:hover {
     content: "";
     display: flex;
     clear: both;
-    flex:1;
 }
   
 /* content decoration */
 .content {
     background-color: white;
     padding: 15px;
-    height: 50px;
+    flex: 1;
 }
   
 /*window size 850 width set */
