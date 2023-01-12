@@ -34,8 +34,9 @@ a:hover {
   
 .each:after {
     content: "";
-    display: table;
+    display: flex;
     clear: both;
+    flex:1;
 }
   
 /* content decoration */
