@@ -164,16 +164,16 @@ li:not(:last-child) {
 .servicesIcon {
   font-size: 36px;
   text-align: center;
-  width: 100%;
+  width: 75%;
 }
 .card-title {
   text-align: center;
 }
 .card:hover .servicesIcon {
-  color: #008000;
+  color: rgb(0,68,190);
 }
 .servicesText:hover {
-  border: 1px solid #008000;
+  border: 2px solid rgb(0,68,190);
 }
 
 /*
