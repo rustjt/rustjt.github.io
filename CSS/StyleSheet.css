@@ -24,7 +24,11 @@ body {
   padding: 0 16px;
 }
 
-
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .inner {
   position: absolute;
