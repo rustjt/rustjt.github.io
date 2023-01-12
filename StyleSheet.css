@@ -2,13 +2,6 @@
   box-sizing: border-box;
 }
 
-/*html, body {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-*/
-
 /* Style the body */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -48,11 +41,6 @@ body {
 .header h2 {
   margin: 0;
   font-size: 30px;
-}
-
-.side h3 {
-  margin: 0;
-  font-size: large;
 }
 
 li:not(:last-child) {
@@ -106,6 +94,12 @@ li:not(:last-child) {
   background-color: #d7d7d7;
   color:black;
   padding: 20px;
+}
+
+.side h4 {
+  margin: 0;
+  font-size: large;
+  font-weight: normal;
 }
 
 /* Main column */
