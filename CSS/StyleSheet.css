@@ -9,8 +9,8 @@ body {
 }
 
 div.trim {
-  max-height: 100px;
-  max-width: 50px;
+  max-height: 300px;
+  max-width: 300px;
   overflow: hidden;
 }
 
