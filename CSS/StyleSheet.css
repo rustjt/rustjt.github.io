@@ -160,12 +160,6 @@ li:not(:last-child) {
 .main p {
   font-size: 20px;
 }
-/* Fake image, just for this example */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
 
 /* Footer */
 .footer {
@@ -189,25 +183,5 @@ li:not(:last-child) {
     width:100%;
   }
 }
-/*
-.container {
-  max-width: 1200px;
-  margin: auto;
-}
 
-.content {
-  background-color: white;
-  padding: 10px;
-  border: 1px solid gray;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.row > .column {
-  padding: 6px;
-}
 
