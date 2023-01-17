@@ -8,6 +8,12 @@ body {
   margin: 0;
 }
 
+div.trim {
+  max-height: 100px;
+  max-width: 50px;
+  overflow: hidden;
+}
+
 .column {
   float:none;
   width: 33.3%;
